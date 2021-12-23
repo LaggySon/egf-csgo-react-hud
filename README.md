@@ -5,7 +5,8 @@
 	<p align="center" style="font-weight:400;">Powered by <a href='https://github.com/lexogrine/hud-manager'><strong>« Lexogrine HUD Manager »</strong></a></p>
 </p>
 
-# Lexogrine HUD
+# EGF Lexogrine HUD - Modified by LaggySon
+
 
   
 
